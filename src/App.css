@@ -1,0 +1,16 @@
+.container1 {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100vh;
+}
+.button_modal_open {
+  width: 200px;
+  height: 80px;
+  font-size: 20px;
+  border-radius: 20px;
+  color:rgb(255, 255, 255);
+  background-color: rgb(75, 72, 255);
+  border-width: 0;
+}
+
